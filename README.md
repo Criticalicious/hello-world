@@ -1,4 +1,2 @@
 # hello-world
-Testing commit section
-
-
+print("Test")
